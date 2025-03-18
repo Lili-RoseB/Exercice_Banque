@@ -16,3 +16,4 @@ C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\T
 C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\ConsoleTesterCompte\obj\Debug\net8.0\ConsoleTesterCompte.pdb
 C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\ConsoleTesterCompte\obj\Debug\net8.0\ConsoleTesterCompte.genruntimeconfig.cache
 C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\ConsoleTesterCompte\obj\Debug\net8.0\ref\ConsoleTesterCompte.dll
+C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\ConsoleTesterCompte\obj\Debug\net8.0\ConsoleTesterCompte.sourcelink.json

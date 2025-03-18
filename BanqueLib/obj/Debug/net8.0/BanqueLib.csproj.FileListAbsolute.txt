@@ -9,3 +9,4 @@ C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\T
 C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\BanqueLib\obj\Debug\net8.0\refint\BanqueLib.dll
 C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\BanqueLib\obj\Debug\net8.0\BanqueLib.pdb
 C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\BanqueLib\obj\Debug\net8.0\ref\BanqueLib.dll
+C:\Users\Lili-Rose\OneDrive\Documents\cégep\session 2\Prog. orienter objet\TP\TP 1\2A6_Banque_2025\BanqueLib\obj\Debug\net8.0\BanqueLib.sourcelink.json

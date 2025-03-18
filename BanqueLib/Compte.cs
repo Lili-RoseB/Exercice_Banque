@@ -10,7 +10,7 @@ namespace BanqueLib
         #region -----champs-----
         private readonly int _numéro;
         private string _détenteur;
-        private decimal _solde = 0;
+        private decimal _solde = 0M;
         private StatutCompte _statut = StatutCompte.OK;
         private bool _estGeler = false;
         #endregion
@@ -20,6 +20,7 @@ namespace BanqueLib
         {
             ArgumentOutOfRangeException.ThrowIfNegativeOrZero(Numéro);
             this._numéro = Numéro;
+            ArgumentException.ThrowIfNullOrWhiteSpace(Détenteur);
             SetDétenteur(Détenteur);
         }
 
@@ -27,7 +28,10 @@ namespace BanqueLib
         {
             ArgumentOutOfRangeException.ThrowIfNegativeOrZero(Numéro);
             this._numéro = Numéro;
+            ArgumentException.ThrowIfNullOrWhiteSpace(Détenteur);
             SetDétenteur(Détenteur);
+            ArgumentOutOfRangeException.ThrowIfNegative(Solde);
+            ArgumentOutOfRangeException.ThrowIfNotEqual(Solde, decimal.Round(Solde, 2));
             this._solde = Solde;
         }
 
@@ -36,7 +40,10 @@ namespace BanqueLib
             ArgumentOutOfRangeException.ThrowIfNegativeOrZero(Numéro);
             this._numéro = Numéro;
             this._statut = Statu;
+            ArgumentOutOfRangeException.ThrowIfNegativeOrZero(Solde);
+            ArgumentOutOfRangeException.ThrowIfNotEqual(Solde, decimal.Round(Solde, 2));
             this._solde = Solde;
+            ArgumentException.ThrowIfNullOrWhiteSpace(Détenteur);
             SetDétenteur(Détenteur);
         }
         #endregion
@@ -54,44 +61,58 @@ namespace BanqueLib
         [MemberNotNull(nameof(Détenteur))]
         public void SetDétenteur(string Détenteur)
         {
-            if(string.IsNullOrEmpty(Détenteur)) 
-                throw new ArgumentNullException(nameof(Détenteur));
+            ArgumentException.ThrowIfNullOrWhiteSpace(Détenteur);
             this._détenteur = Détenteur.Trim();
         }
+
         #endregion
 
 
         #region-----méthodes calculantes-----
-        public bool PeutDéposer(decimal montant = 0)
+        public bool PeutDéposer(decimal montant = 0M)
         {
            ArgumentOutOfRangeException.ThrowIfNegative(montant);
-            ArgumentOutOfRangeException.ThrowIfNotEqual(montant, decimal.Round(montant, 2));
-            if(_estGeler)
+           ArgumentOutOfRangeException.ThrowIfNotEqual(montant, decimal.Round(montant, 2));
+            if(Statut == StatutCompte.Gelé)
                 return false;
-            else return true;
+            else 
+                return true;
 
         }
 
-        public bool PeutRetirer(decimal montant = 0)
+        public bool PeutRetirer(decimal montant = 0M)
         {
 
             ArgumentOutOfRangeException.ThrowIfNegative(montant);
             ArgumentOutOfRangeException.ThrowIfNotEqual(montant, decimal.Round(montant, 2));
-            if (_estGeler)
+            if (Statut == StatutCompte.Gelé || montant > Solde)
                 return false;
-            else return true;
+            else 
+                return true;
 
 
         }
 
+        public bool PeutVider()
+        {
+            if (Solde == 0M || Statut == StatutCompte.Gelé)
+            {
+                throw new InvalidOperationException(nameof(Vider));
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
         public string Description()
         {
             return $@"
             [LRB] * *************************************************
             [LRB] *                                                 *
             [LRB] *  COMPTE {Numéro,-12}                            *
-            [LRB] *      DE: {Détenteur, -16}                       *
-            [LRB] *   Solde: {Solde, -12}$                          *
+            [LRB] *      DE: {Détenteur, -39}*
+            [LRB] *   Solde: {Solde, -15:C2}                        *
             [LRB] *  Statut: {Statut,-12}                           *
             [LRB] *                                                 *
             [LRB] * *************************************************";
@@ -105,7 +126,7 @@ namespace BanqueLib
         {
             if (!PeutDéposer(montant))
             {
-                throw new InvalidOperationException(nameof(montant));
+                throw new InvalidOperationException(nameof(Déposer));
 
             }
             else
@@ -119,7 +140,7 @@ namespace BanqueLib
         {
             if (!PeutRetirer(montant) || montant > Solde)
             {
-                throw new InvalidOperationException(nameof(montant));
+                throw new InvalidOperationException(nameof(Retirer));
 
             }
             else
@@ -130,9 +151,9 @@ namespace BanqueLib
         }
 
         public void Geler()
-        { 
-            if(Statut == StatutCompte.Gelé)
-                throw new InvalidOperationException();
+        {
+            if (Statut == StatutCompte.Gelé)
+                throw new InvalidOperationException(nameof(Geler));
             else
             _statut = StatutCompte.Gelé;
             
@@ -141,20 +162,20 @@ namespace BanqueLib
         public void Dégeler()
         {
             if (Statut == StatutCompte.OK)
-                throw new InvalidOperationException();
+                throw new InvalidOperationException(nameof(Dégeler));
            else
             _statut = StatutCompte.OK;
         }
 
         public decimal Vider()
         {
-            if(Solde == 0)
+            if (!PeutVider())
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException(nameof(Vider));
             }
             else
             {
-                _solde = 0;
+                _solde = 0M;
                 return Solde;
             }
         }

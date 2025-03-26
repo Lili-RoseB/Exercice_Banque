@@ -85,7 +85,7 @@ namespace BanqueLib
 
             ArgumentOutOfRangeException.ThrowIfNegative(montant);
             ArgumentOutOfRangeException.ThrowIfNotEqual(montant, decimal.Round(montant, 2));
-            if (Statut == StatutCompte.Gelé || montant > Solde)
+            if (Statut == StatutCompte.Gelé || Solde <= 0)
                 return false;
             else 
                 return true;
@@ -97,7 +97,6 @@ namespace BanqueLib
         {
             if (Solde == 0M || Statut == StatutCompte.Gelé)
             {
-                throw new InvalidOperationException(nameof(Vider));
                 return false;
             }
             else
@@ -124,7 +123,7 @@ namespace BanqueLib
         #region-----méthodes modifiantes-----
         public void Déposer(decimal montant)
         {
-            if (!PeutDéposer(montant))
+            if (!PeutDéposer(montant) )
             {
                 throw new InvalidOperationException(nameof(Déposer));
 
@@ -138,7 +137,7 @@ namespace BanqueLib
 
         public void Retirer(decimal montant)
         {
-            if (!PeutRetirer(montant) || montant > Solde)
+            if (!PeutRetirer(montant))
             {
                 throw new InvalidOperationException(nameof(Retirer));
 

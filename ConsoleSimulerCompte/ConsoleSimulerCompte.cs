@@ -1,10 +1,8 @@
 ﻿using System.Numerics;
+using System.Text.Json;
 using BanqueLib;
-
 Random random = new Random();
-int numeroCompte = random.Next(100, 999);
-var compteInitial = new Compte(numeroCompte, "Lili-Rose B.");
-
+var compteInitial = Persistance.Dederialisation();
 while (true)
 {
     Console.Clear();
@@ -36,7 +34,7 @@ while (true)
             compteInitial.SetDétenteur(nouveauDétenteur);
 
             Console.WriteLine("** Détenteur modifié pour : " + nouveauDétenteur + " **");
-
+            Persistance.Serialisation(compteInitial);
             break;
         case '2':
             {
@@ -93,6 +91,7 @@ while (true)
                 {
                     Console.WriteLine($"** Impossible de déposer {montantAleatoire} $ **");
                 }
+                Persistance.Serialisation(compteInitial);
             }
             break;
         case '6': 
@@ -109,6 +108,7 @@ while (true)
                 {
                     Console.WriteLine($"** Impossible de retirer {montantAleatoire} $ **");
                 }
+                Persistance.Serialisation(compteInitial);
             }
             break;
         case '7': 
@@ -123,6 +123,7 @@ while (true)
                 {
                     Console.WriteLine($"** Impossible de vider un compte vide ou geler **");
                 }
+                Persistance.Serialisation(compteInitial);
             }
             break;
         case '8':
@@ -136,6 +137,7 @@ while (true)
                     compteInitial.Geler();
                     Console.WriteLine("** Le compte a été gelé. **");
                 }
+                Persistance.Serialisation(compteInitial);
             }
 
             break;
@@ -150,6 +152,7 @@ while (true)
                     compteInitial.Dégeler();
                     Console.WriteLine("** Le compte a été dégelé. **");
                 }
+                Persistance.Serialisation(compteInitial);
             }
             break;
         case 'q':
@@ -162,6 +165,7 @@ while (true)
 
                 compteInitial = nouveauCompte;
                 Console.WriteLine("Un nouveau compte à été crée");
+                Persistance.Serialisation(compteInitial);
             }
             break;
         default:
@@ -170,7 +174,31 @@ while (true)
     Console.WriteLine("\n Appuyer sur ENTER pour continuer...");
     Console.ReadLine();
 }
+static class Persistance
+{
+    private const string FICHIER = "Compte.json";
 
+    public static Compte Dederialisation()
+    {
+        if (File.Exists(FICHIER))
+        {
+            string json = File.ReadAllText(FICHIER);
+            return JsonSerializer.Deserialize<Compte>(json)!;
+        }
+        else
+        {
+            Random random = new Random();
+            return new Compte(random.Next(100, 999), "Lili-Rose B.");
+        }
+    }
+
+    public static void Serialisation(Compte compte)
+    {
+        var options = new JsonSerializerOptions { WriteIndented = true };
+        string json = JsonSerializer.Serialize(compte, options);
+        File.WriteAllText(FICHIER, json);
+    }
+}
 #pragma warning disable S3903 // Types should be defined in named namespaces
 static class Utile
 {

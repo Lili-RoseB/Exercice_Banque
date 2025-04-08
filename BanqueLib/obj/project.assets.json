@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
+      "projectUniqueName": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
       "projectName": "BanqueLib",
-      "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
+      "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
       "packagesPath": "C:\\Users\\Lili-Rose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\BanqueLib\\obj\\",
+      "outputPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

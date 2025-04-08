@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BanqueLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88148da41e0410a66ff3225b985236cd0ce950b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5a9a59cbe8b17f7bc50c935777b68113c54112")]
 [assembly: System.Reflection.AssemblyProductAttribute("BanqueLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BanqueLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

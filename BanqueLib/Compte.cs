@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
 using System.Reflection.Metadata;
+using System.Text.Json.Serialization;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace BanqueLib
@@ -45,6 +46,16 @@ namespace BanqueLib
             this._solde = Solde;
             ArgumentException.ThrowIfNullOrWhiteSpace(Détenteur);
             SetDétenteur(Détenteur);
+        }
+
+        [JsonConstructor]
+        public Compte(int numéro, string détenteur, decimal solde, StatutCompte statut, bool estGelé)
+        {
+            _numéro = numéro;
+            _détenteur = détenteur;
+            _solde = solde;
+            _statut = statut;
+            _estGeler = estGelé;
         }
         #endregion
 

@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{604AA99F-04D7-4286-B8AD-8CAB83C21BF8}|ConsoleSimulerCompte\\ConsoleSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie1\\2a6_banque_2025\\consolesimulercompte\\consolesimulercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{604AA99F-04D7-4286-B8AD-8CAB83C21BF8}|ConsoleSimulerCompte\\ConsoleSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie2\\2a6_banque_2025\\consolesimulercompte\\consolesimulercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{604AA99F-04D7-4286-B8AD-8CAB83C21BF8}|ConsoleSimulerCompte\\ConsoleSimulerCompte.csproj|solutionrelative:consolesimulercompte\\consolesimulercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie1\\2a6_banque_2025\\banquelib\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie2\\2a6_banque_2025\\banquelib\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|solutionrelative:banquelib\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie1\\2a6_banque_2025\\consoletestercompte\\consoletestercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|solutionrelative:consoletestercompte\\consoletestercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie1\\2a6_banque_2025\\consoletestercompte\\consoletestercompte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|solutionrelative:consoletestercompte\\consoletestercompte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,25 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConsoleTesterCompte.csproj",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
-              "RelativeDocumentMoniker": "ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
-              "RelativeToolTip": "ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T00:47:32.806Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleSimulerCompte.cs",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
               "RelativeDocumentMoniker": "ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\ConsoleSimulerCompte\\ConsoleSimulerCompte.cs*",
-              "RelativeToolTip": "ConsoleSimulerCompte\\ConsoleSimulerCompte.cs*",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHUAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
+              "RelativeToolTip": "ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAgwMEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T00:47:21.003Z",
               "EditorCaption": ""
@@ -61,25 +41,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Compte.cs",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
               "RelativeDocumentMoniker": "BanqueLib\\Compte.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
               "RelativeToolTip": "BanqueLib\\Compte.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAIwHsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAkwMUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T14:21:02.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConsoleTesterCompte.cs",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.cs",
-              "RelativeDocumentMoniker": "ConsoleTesterCompte\\ConsoleTesterCompte.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie1\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.cs",
-              "RelativeToolTip": "ConsoleTesterCompte\\ConsoleTesterCompte.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAYwMcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:44:39.263Z"
+              "WhenOpened": "2025-03-14T14:21:02.966Z",
+              "EditorCaption": ""
             }
           ]
         }

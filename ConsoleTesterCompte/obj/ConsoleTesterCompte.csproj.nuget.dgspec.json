@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj": {}
+    "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj": {
+    "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
+        "projectUniqueName": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
         "projectName": "BanqueLib",
-        "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
+        "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj",
         "packagesPath": "C:\\Users\\Lili-Rose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\obj\\",
+        "outputPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,18 +66,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj": {
+    "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
+        "projectUniqueName": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
         "projectName": "ConsoleTesterCompte",
-        "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
+        "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
         "packagesPath": "C:\\Users\\Lili-Rose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\ConsoleTesterCompte\\obj\\",
+        "outputPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\ConsoleTesterCompte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,14 +92,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj": {
-                "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie2\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj"
+              "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj": {
+                "projectPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\cégep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\BanqueLib.csproj"
               }
             }
           }
@@ -134,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

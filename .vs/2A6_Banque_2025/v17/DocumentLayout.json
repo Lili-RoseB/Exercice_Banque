@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie3_b\\2a6_banque_2025\\winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|solutionrelative:winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\banquelib\\banque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|solutionrelative:banquelib\\banque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie3_b\\2a6_banque_2025\\winformssimulercompte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|solutionrelative:winformssimulercompte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CCE8904-EF94-4BB2-804F-52D1CF4D9352}|ConsoleTesterBanque\\ConsoleTesterBanque.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\consoletesterbanque\\consoletesterbanque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCE8904-EF94-4BB2-804F-52D1CF4D9352}|ConsoleTesterBanque\\ConsoleTesterBanque.csproj|solutionrelative:consoletesterbanque\\consoletesterbanque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie3_b\\2a6_banque_2025\\banquelib\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\banquelib\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6287CAE6-D7A1-4F93-A012-5E9F5AC6F392}|BanqueLib\\BanqueLib.csproj|solutionrelative:banquelib\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie3_b\\2a6_banque_2025\\winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|solutionrelative:winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{604AA99F-04D7-4286-B8AD-8CAB83C21BF8}|ConsoleSimulerCompte\\ConsoleSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\consolesimulercompte\\consolesimulercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604AA99F-04D7-4286-B8AD-8CAB83C21BF8}|ConsoleSimulerCompte\\ConsoleSimulerCompte.csproj|solutionrelative:consolesimulercompte\\consolesimulercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\tp\\tp 1\\lili-rose_blouin_tp1_partie3_b\\2a6_banque_2025\\winformssimulercompte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\consoletestercompte\\consoletestercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|solutionrelative:consoletestercompte\\consoletestercompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\consoletestercompte\\consoletestercompte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE75A875-B9E1-48AF-9E65-1E7887F25839}|ConsoleTesterCompte\\ConsoleTesterCompte.csproj|solutionrelative:consoletestercompte\\consoletestercompte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|solutionrelative:winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\winformssimulercompte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|solutionrelative:winformssimulercompte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|c:\\users\\lili-rose\\onedrive\\documents\\c\u00E9gep\\session 2\\prog. orienter objet\\devoirs\\devoir 29 (cours 25)\\2a6_banque_2025\\winformssimulercompte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|solutionrelative:winformssimulercompte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A74099D-F819-4EA6-944F-D4574F18A42A}|WinFormsSimulerCompte\\WinFormsSimulerCompte.csproj|solutionrelative:winformssimulercompte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,63 +54,127 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleTesterCompte.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.cs",
+              "RelativeDocumentMoniker": "ConsoleTesterCompte\\ConsoleTesterCompte.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.cs",
+              "RelativeToolTip": "ConsoleTesterCompte\\ConsoleTesterCompte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:41:13.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleTesterCompte",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
+              "RelativeDocumentMoniker": "ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
+              "RelativeToolTip": "ConsoleTesterCompte\\ConsoleTesterCompte.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T18:41:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleTesterBanque.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleTesterBanque\\ConsoleTesterBanque.cs",
+              "RelativeDocumentMoniker": "ConsoleTesterBanque\\ConsoleTesterBanque.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleTesterBanque\\ConsoleTesterBanque.cs",
+              "RelativeToolTip": "ConsoleTesterBanque\\ConsoleTesterBanque.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAwMkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:37:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banque.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\BanqueLib\\Banque.cs",
+              "RelativeDocumentMoniker": "BanqueLib\\Banque.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\BanqueLib\\Banque.cs",
+              "RelativeToolTip": "BanqueLib\\Banque.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:29:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Compte.cs",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
               "RelativeDocumentMoniker": "BanqueLib\\Compte.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\BanqueLib\\Compte.cs",
               "RelativeToolTip": "BanqueLib\\Compte.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAhwFQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAmwCsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T18:47:13.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsSimulerCompte\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.Designer.cs",
-              "RelativeToolTip": "WinFormsSimulerCompte\\Form1.Designer.cs",
-              "ViewState": "AgIAAB8BAAAAAAAAAAApwCABAAAPAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ConsoleSimulerCompte.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
+              "RelativeDocumentMoniker": "ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
+              "RelativeToolTip": "ConsoleSimulerCompte\\ConsoleSimulerCompte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:31:25.011Z",
+              "WhenOpened": "2025-05-01T18:41:19.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Program.cs",
-              "RelativeDocumentMoniker": "WinFormsSimulerCompte\\Program.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Program.cs",
-              "RelativeToolTip": "WinFormsSimulerCompte\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:24:13.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsSimulerCompte\\Form1.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs",
               "RelativeToolTip": "WinFormsSimulerCompte\\Form1.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAIwOEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAowBsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T17:15:59.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsSimulerCompte\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsSimulerCompte\\Form1.Designer.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAApwCABAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:31:25.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsSimulerCompte\\Program.cs",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Program.cs",
+              "RelativeToolTip": "WinFormsSimulerCompte\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:24:13.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Conception]",
-              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsSimulerCompte\\Form1.cs",
-              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\TP\\TP 1\\Lili-Rose_Blouin_TP1_Partie3_b\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs [Conception]",
+              "ToolTip": "C:\\Users\\Lili-Rose\\OneDrive\\Documents\\c\u00E9gep\\session 2\\Prog. orienter objet\\devoirs\\Devoir 29 (cours 25)\\2A6_Banque_2025\\WinFormsSimulerCompte\\Form1.cs [Conception]",
               "RelativeToolTip": "WinFormsSimulerCompte\\Form1.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T14:02:22.705Z",

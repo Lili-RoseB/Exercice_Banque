@@ -13,7 +13,7 @@ namespace BanqueLib
         private string _détenteur;
         private decimal _solde = 0M;
         private StatutCompte _statut = StatutCompte.OK;
-        private bool _estGeler = false;
+        private bool _estGelé = false;
         #endregion
 
         #region-----Constructeurs-----
@@ -36,12 +36,12 @@ namespace BanqueLib
             this._solde = Solde;
         }
 
-        public Compte(int Numéro, string Détenteur, decimal Solde, StatutCompte Statu )
+        public Compte(int Numéro, string Détenteur, decimal Solde, StatutCompte Statut )
         {
             ArgumentOutOfRangeException.ThrowIfNegativeOrZero(Numéro);
             this._numéro = Numéro;
-            this._statut = Statu;
-            ArgumentOutOfRangeException.ThrowIfNegativeOrZero(Solde);
+            this._statut = Statut;
+            ArgumentOutOfRangeException.ThrowIfNegative(Solde);
             ArgumentOutOfRangeException.ThrowIfNotEqual(Solde, decimal.Round(Solde, 2));
             this._solde = Solde;
             ArgumentException.ThrowIfNullOrWhiteSpace(Détenteur);
@@ -55,7 +55,7 @@ namespace BanqueLib
             _détenteur = détenteur;
             _solde = solde;
             _statut = statut;
-            _estGeler = estGelé;
+            _estGelé = estGelé;
         }
         #endregion
 
@@ -64,7 +64,7 @@ namespace BanqueLib
         public string Détenteur => _détenteur;
         public decimal Solde => _solde;
         public StatutCompte Statut => _statut;
-        public bool EstGelé => _estGeler;
+        public bool EstGelé => _estGelé;
         #endregion
 
         #region-----setters-----
@@ -185,8 +185,9 @@ namespace BanqueLib
             }
             else
             {
+                decimal montant = _solde;
                 _solde = 0M;
-                return Solde;
+                return montant;
             }
         }
         #endregion
